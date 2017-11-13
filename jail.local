@@ -1,0 +1,8 @@
+[permaban]
+enabled = true
+logpath  = /var/log/fail2ban.*
+filter = permaban
+banaction = permaban
+bantime = -1
+findtime = 11232000  ; 130 days
+maxretry = 10
