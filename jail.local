@@ -1,3 +1,4 @@
+
 [permaban]
 enabled = true
 logpath  = /var/log/fail2ban.*
